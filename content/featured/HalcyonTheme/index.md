@@ -2,7 +2,7 @@
 date: '1'
 title: ' Penetration Testing by REAL hackers!'
 cover: './halcyon.png'
-github: 'https://github.com/bchiang7/halcyon-site'
+github: 'https://github.com/blurhack/halcyon-site'
 external: 'https://halcyon-theme.netlify.com/'
 tech:
   - VS Code
