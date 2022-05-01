@@ -161,7 +161,7 @@ const About = () => {
             <p>
             My name is rajvardhan , I am an ethical hacker, a computer scientist, and the founder and CTO of beesec.
             I just love hacking and breaking the rules, but don’t get me wrong as I said I am an ethical hacker.
-             i also develop the websites and apps
+             i also develop the websites and apps and also working on blockchain
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
