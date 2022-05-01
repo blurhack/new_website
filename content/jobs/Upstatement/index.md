@@ -1,6 +1,6 @@
 ---
 date: '2018-05-14'
-title: 'Get REAL hackers to Review Your Code!'
+title: 'Get REAL hackers to Review Your Code! for low cost'
 company: 'codereview'
 url: 'https://www.blurhacker.com/'
 ---
