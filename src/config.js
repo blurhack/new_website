@@ -8,7 +8,7 @@ module.exports = {
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/blur.hacker',
+      url: 'https://www.instagram.com/vardhan.blurhacker/',
     },
     {
       name: 'Twitter',
@@ -20,7 +20,7 @@ module.exports = {
     },
     {
       name: 'Codepen',
-      url: 'https://codepen.io/blurhacker',
+      url: 'https://codepen.io/blurhack',
     },
   ],
 

@@ -58,29 +58,23 @@ const Hero = () => {
     return () => clearTimeout(timeout);
   }, []);
 
-  const one = <h1>{"<Hi, my name is/>"}</h1>;
+  const one = <h1>{'<Hi, my name is/>'}</h1>;
   const two = <h2 className="big-heading">Blurhacker.</h2>;
-  const three = <h3 className="big-heading">{"<hacker and programmer/>"}</h3>;
+  const three = <h3 className="big-heading">{'<hacker and programmer/>'}</h3>;
   const four = (
     <>
       <p>
-      My name is rajvardhan , I am an ethical hacker, a computer scientist, 
-      and the founder and CTO of <a href="https://beesec.org/" target="_blank" rel="noreferrer">
+        My name is rajvardhan , I am an ethical hacker,and programmer and the founder and CTO of{' '}
+        <a href="https://beesec.org/" target="_blank" rel="noreferrer">
           beesec.
         </a>
-      I just love hacking and breaking the rules, 
-      but don’t get me wrong as I said I am an ethical hacker.{' '}
-      i also develop the websites and apps
+        I just love hacking and breaking the rules, but don’t get me wrong as I said I am an ethical
+        hacker. i also develop the websites and apps
       </p>
     </>
-    
-   );
+  );
   const five = (
-    <a
-      className="email-link"
-      href="https://www.blurhacker.com"
-      target="_blank"
-      rel="noreferrer">
+    <a className="email-link" href="https://www.blurhacker.tech" target="_blank" rel="noreferrer">
       Check out my complete profile!
     </a>
   );

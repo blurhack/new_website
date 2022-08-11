@@ -1,12 +1,11 @@
 ---
 date: '2020-01-10'
-title: 'Time to Have More Fun'
-github: 'https://github.com/bchiang7/time-to-have-more-fun'
-external: 'https://time-to-have-more-fun.now.sh/'
+title: 'online classes prank'
+github: 'https://github.com/blurhack/online-classes-prank'
+external: 'https://github.com/blurhack/online-classes-prank'
 tech:
-  - Next.js
-  - Tailwind CSS
-  - Firebase
+  - python
+  - chrome extension
 company: ''
 showInProjects: true
 ---

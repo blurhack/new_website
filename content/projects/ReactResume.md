@@ -1,12 +1,13 @@
 ---
 date: '2016-08-01'
-title: 'React Profile'
-github: 'https://github.com/bchiang7/react-profile'
-external: 'https://bchiang7.github.io/react-profile/'
+title: 'IMGHIDE'
+github: 'https://github.com/blurhack/imghide'
+external: 'https://github.com/blurhack/imghide'
 tech:
-  - React
+  - python
   - CSS
 showInProjects: true
 ---
 
-Online version of my 2016 resume made for fun. I was interested in learning React.js, so I found a simple tutorial and it spun into a weekend project.
+Hide secret texts/messages inside an image. You can optionally encrypt your texts with a password using AES-256 before encoding into the image.
+Inspired from this Medium post

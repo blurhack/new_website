@@ -1,12 +1,13 @@
 ---
 date: '2018-12-29'
-title: 'Google Keep Clone'
-github: 'https://github.com/bchiang7/google-keep-vue-firebase'
-external: 'https://keep-vue.netlify.com/'
+title: 'BeEF Over '
+github: 'https://github.com/beefproject/beef'
+external: 'https://blurhacker.wixsite.com/blurhacker/post/use-beef-over-the-internet-with-ngrok'
 tech:
-  - Vue
-  - Firebase
+  - BeEF
+  - kali
 showInProjects: true
 ---
 
-A simple Google Keep clone built with Vue and Firebase.
+BeEF is short for The Browser Exploitation Framework. It is a penetration testing tool that focuses on the web browser.
+Amid growing concerns about web-borne attacks against clients, including mobile clients,

@@ -2,15 +2,15 @@
 date: '3'
 title: 'Build a Spotify Connected App'
 cover: './course-card.png'
-external: 'https://www.newline.co/courses/build-a-spotify-connected-app'
-cta: 'https://www.newline.co/courses/build-a-spotify-connected-app'
+external: 'https://blurhack.github.io/CTF_hack/'
+cta: 'https://blurhack.github.io/CTF_hack/'
 tech:
-  - React
-  - Express
-  - Spotify API
-  - Styled Components
+  - HTML & CSS
+  - PYTHON
+  - Hack the box
+  - blurees
 ---
 
-Having struggled with understanding how to the Spotify OAuth flow works, I made the course I wish I could have had.
+A community of like minded individuals who support cybersecurity and FOSS.{''}
 
-Unlike tutorials that only cover a few concepts and leave you with half-baked GitHub repositories, this course covers everything from explaining the principles of REST APIs to implementing Spotify's OAuth flow and fetching API data in a React app. By the end of the course, you’ll have an app deployed to the internet you can add to your portfolio.
+A capture the flag (CTF) contest is a special kind of cybersecurity competition designed to challenge its participants to solve computer security problems and/or capture and defend computer systems.The game consists of a series of challenges where participants must reverse engineer, break, hack, decrypt, or do whatever it takes to solve the challenge.

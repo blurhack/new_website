@@ -1,15 +1,16 @@
 ---
 date: '2'
-title: 'Spotify Profile'
+title: 'IMGHIDE'
 cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+github: 'https://github.com/blurhack/imghide'
+external: 'https://github.com/blurhack/imghide'
 tech:
-  - React
-  - Styled Components
-  - Express
-  - Spotify API
-  - Heroku
+  - Python
+  - Colorama
+  - Commonmark
+  - Pygments API
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+A web app Hide secret texts/messages inside an image. You can optionally encrypt your texts with a password using AES-256 before encoding into the image.
+
+Inspired from this [Medium post](https://betterprogramming.pub/image-steganography-using-python-2250896e48b9)

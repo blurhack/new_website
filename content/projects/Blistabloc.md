@@ -1,14 +1,13 @@
 ---
 date: '2018-05-01'
-title: 'blistabloc'
+title: 'WIFI-DOS'
 github: ''
-external: 'https://blistabloc.com/'
+external: 'https://github.com/blurhack/-wifi_dos'
 tech:
   - WordPress
-  - Timber
-  - WooCommerce
-company: 'Scout'
-showInProjects: false
+  - PYthon
+company:
+showInProjects: true
 ---
 
-Custom WordPress theme and e-commerce site built with Timber and WooCommerce for blistabloc, a start-up selling the only reactive shoe insert that prevents blisters from forming.
+its an new method of wifi dos attack to find the wifi passwords --> in case of any bugs just dm in insta..

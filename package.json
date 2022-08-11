@@ -2,10 +2,10 @@
   "name": "v4",
   "description": "Personal Website V4",
   "version": "1.0.0",
-  "author": "blurhacker <blurhack2332@gmail.com>",
+  "author": "blurhack <blurhack2332@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/blur.hacker"
+    "url": "https://github.com/blurhack/"
   },
   "keywords": [
     "gatsby"
@@ -16,7 +16,7 @@
     "build": "gatsby build",
     "develop": "gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
-    "start": "npm run develop",
+    "start": "npm run deploy",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
     "prepare": "husky install",

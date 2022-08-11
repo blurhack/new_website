@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/anchor-is-valid */
 import React, { useEffect, useRef } from 'react';
 import { StaticImage } from 'gatsby-plugin-image';
 import styled from 'styled-components';
@@ -126,45 +127,58 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['<JavaScript/>', '<hacking_mobile/>', '<pentesting/>', '<bug_finding/>', '<Node.js/>', '<WordPress/>', '<python>' ];
+  const skills = [
+    '<JavaScript/>',
+    '<hacking_mobile/>',
+    '<pentesting/>',
+    '<bug_finding/>',
+    '<Node.js/>',
+    '<WordPress/>',
+    '<python>',
+  ];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
-      <h2 className="numbered-heading">{"<About Me/>"}</h2>
+      <h2 className="numbered-heading">{'<About Me/>'}</h2>
 
       <div className="inner">
         <StyledText>
           <div>
             <p>
-              Hello! My name is <a>raj vardhan_rathore </a>,{' '} and I enjoy creating things that live on the internet. My
-              interest in hacking started back in 2017 when I decided to become a hacker and computer scientist
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about programming &amp; hacking!
+              Hello! My name is <a>raj vardhan_rathore </a>, and I enjoy creating things that live
+              on the internet. My interest in hacking started back in 2017 when I decided to become
+              a hacker and computer scientist — turns out i had started learning cyber security in
+              many ways that i can after the long time and slowed started learning about programming
+              &amp; hacking!
+            </p>
+            <p>
+              In the beginning, I started a blog. Then, after learning to code, I began creating
+              apps and websites. It's difficult to find time as a <a>self-taught programmer</a>, so
+              I began using WordPress and PHP with SQL and became an expert in the WordPress
+              development team. Since then, I've worked as a freelancer. and finished two
+              significant projects from the
+              <a href="https://virginol.com"> virginol company website</a>,{''}
+            </p>
+            <p>
+              I started doing study on cyber security and obtained a{' '}
+              <a href="https://zsecurtiy.org/">ZSecurtiy</a>, certification I completed CHE through
+              ZSec and obtained other additional certificates through Udemy The master CEH by
+              Ec-coounil was something I was currently studying for.
             </p>
 
             <p>
-              Fast-forward to today, and I’ve had the very good experience in ethical hacking and i am expert in{' '}
-              <a href="https://blurhacker.com/pentesting/">pentesting</a>,{' '}
-              <a>bug finding</a>,{' '}
-              <a>a huge corporation</a>, and{' '}
-              My main focus these days is cryptography
+              Fast forward to now, and I have extensive experience in ethical hacking, as well as
+              expertise in <a href="https://blurhacker.com/pentesting/">pentesting</a>,{' '}
+              <a>bug discovery</a>, <a>scrpit kiddie </a>, and my major focus these days being
+              cryptography.
             </p>
 
             <p>
-              I also recently{' '}
-              <a href="https://www.blurhacker.com">
-                made a start-up
-              </a>{' '}
-              that covers “Everything related to ethical hacking 
-              &amp;cyber security in one place.”
+              Recently, I also launched a start-up called{' '}
+              <a href="https://www.blurhacker.com">Beesec</a> that aims to provide everything
+              connected to ethical hacking &amp;cyber security in one location.
             </p>
-            <p>
-            My name is rajvardhan , I am an ethical hacker, a computer scientist, and the founder and CTO of beesec.
-            I just love hacking and breaking the rules, but don’t get me wrong as I said I am an ethical hacker.
-             i also develop the websites and apps and also working on blockchain
-            </p>
-
-            <p>Here are a few technologies I’ve been working with recently:</p>
+            <p>Here are a few technologies I have been working with recently:</p>
           </div>
 
           <ul className="skills-list">
